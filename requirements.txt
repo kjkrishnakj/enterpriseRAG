@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pypdf
+sentence-transformers
+faiss-cpu
+python-multipart
+python-dotenv
+openai
+python-multipart
+transformers
+torch
