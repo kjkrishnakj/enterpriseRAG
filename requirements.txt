@@ -1,7 +1,10 @@
 fastapi
 uvicorn
-langchain
-openai
+pypdf
+sentence-transformers
 faiss-cpu
-pymongo
+python-multipart
 python-dotenv
+openai
+python-multipart
+transformers
